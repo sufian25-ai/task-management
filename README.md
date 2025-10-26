@@ -31,7 +31,7 @@ A modern, role-based task management web app built with **Laravel 11**, featurin
 ---
 
 ## 🧠 Tech Stack
-**Backend:** Laravel 11, PHP 8.2+, MySQL  
+**Backend:** Laravel 12, PHP 8.2+, MySQL  
 **Frontend:** Tailwind CSS, Alpine.js  
 **Auth:** Laravel Breeze  
 **Tools:** Vite, Eloquent ORM, Carbon

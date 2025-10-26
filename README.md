@@ -1,4 +1,4 @@
-# 📋 Task Management System (Laravel 11)
+# 📋 Task Management System (Laravel 12)
 
 A modern, role-based task management web app built with **Laravel 11**, featuring **real-time AJAX updates**, **Tailwind UI**, and an **Admin Dashboard**.
 
@@ -88,5 +88,5 @@ Email: msufianbd92@gmail.com
 
 ---
 
-## 📝 License
-MIT © 2025 | Built with ❤️ using Laravel
+## 
+© 2025 | Built with MD MAHABUB❤️ using Laravel
